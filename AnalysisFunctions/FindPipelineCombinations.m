@@ -8,7 +8,7 @@ function [ORDERED_INDS,ORDERED_MATRIX,LABELS] = FindPipelineCombinations(TYPE,OR
 % parameter you want to extract the index/indices of. The position of each
 % value indicates the processing step and the value at that position
 % indicates which specific step to extract. A value of zero indicates to
-% not extract pipelines based on that processing step. See below for an 
+% extract all pipelines based on that processing step. See below for an 
 % explanation of how to use
 %
 % Optional
