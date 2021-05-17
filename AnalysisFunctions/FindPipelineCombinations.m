@@ -112,7 +112,7 @@ else
 INDStemp = find(COMBINATIONS(:,EXTRACT_IND) == TYPE(EXTRACT_IND));
 
 if i > 1
-   INDS = union(INDS,INDStemp);
+   INDS = intersect(INDS,INDStemp);
 else
    INDS = INDStemp;
 end
