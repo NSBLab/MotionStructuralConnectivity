@@ -1,6 +1,6 @@
 # MotionStructuralConnectivity
 
-This repository (https://github.com/BMHLab/MotionStructuralConnectivity/) contains all the code to reproduce the results and figures in Oldham et al., 2020. The efficacy of different preprocessing steps in reducing motion-related confounds in diffusion MRI connectomics. The paper can be found [here](https://www.sciencedirect.com/science/article/pii/S1053811920307382).
+This repository [https://github.com/BMHLab/MotionStructuralConnectivity/](https://bmhlab.github.io/MotionStructuralConnectivity/) contains all the code to reproduce the results and figures in Oldham et al., 2020. The efficacy of different preprocessing steps in reducing motion-related confounds in diffusion MRI connectomics. The paper can be found [here](https://www.sciencedirect.com/science/article/pii/S1053811920307382).
 
 MAIN_ANALYSIS.m will perform all of the analyses done in the paper. 
 
